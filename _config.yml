@@ -1,0 +1,28 @@
+name: 'Conversionista!'
+favicon: null
+layout_spectrum: 0.214774799766019
+typography_spectrum: 0.5346907246857882
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.3264978248625994
+  lightness: 0.14306227769702673
+  saturation: 0.06465979246422648
+  rhythmicContrast: 0.4165561394765973
+purpose: []
